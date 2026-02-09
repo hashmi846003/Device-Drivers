@@ -1,0 +1,1 @@
+cmd_/home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_platform_driver.mod := { echo  /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_device_setup.o;  echo; } > /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_platform_driver.mod

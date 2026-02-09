@@ -1,0 +1,1 @@
+cmd_/home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/Module.symvers := sed 's/ko$$/o/' /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/modules.order | scripts/mod/modpost -m -a   -o /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/Module.symvers -e    -T -

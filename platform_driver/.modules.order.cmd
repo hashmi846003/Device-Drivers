@@ -1,0 +1,1 @@
+cmd_/home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/modules.order := {   echo /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_platform_driver.ko; :; } | awk '!x[$$0]++' - > /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/modules.order

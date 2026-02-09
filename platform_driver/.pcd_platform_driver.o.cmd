@@ -1,0 +1,1 @@
+cmd_/home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_platform_driver.o := arm-linux-gnueabihf-ld -EL -z noexecstack   -r -o /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_platform_driver.o /home/hashmi/Desktop/DEVICE_DRIVER/platform_driver/pcd_device_setup.o
